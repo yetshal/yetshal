@@ -63,7 +63,7 @@ Soy un **estudiante universitario** apasionado por el desarrollo de software con
 
 ## 🚀 Proyectos Destacados
 
-- **[ReservaFET](https://github.com/yetshal)**  
+- **[ReservaFET](https://github.com/yetshal/ReservaFet)**  
   Proyecto académico para dominar el uso de frameworks frontend y backend.
 
 - **[Cart con Angular](https://github.com/yetshal/Cart)**  
